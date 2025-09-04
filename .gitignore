@@ -1,0 +1,27 @@
+.git
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook config
+.jupyter/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other editor/project settings
+.vscode/
+.idea/
+*.nbconvert.ipynb
